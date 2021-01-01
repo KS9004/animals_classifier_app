@@ -66,11 +66,11 @@ class _HomeState extends State<Home> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            SizedBox(height: 80.0,),
+            SizedBox(height: 70.0,),
             Text("Tensorflow ",style: TextStyle(color: Color(0xFFEEDA28),fontSize: 35),),
             SizedBox(height: 6.0,),
             Text('Detect Animals',style: TextStyle(color: Color(0xFFE99600),fontWeight: FontWeight.w500,fontSize:30),),
-            SizedBox(height: 40,),
+            SizedBox(height: 30,),
             Center(child:_loading ? Container(
               width: 280,
               child: Column(
