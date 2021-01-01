@@ -97,39 +97,41 @@ class _HomeState extends State<Home> {
               ),
             ),
             ),
-            Container(
-              width: MediaQuery.of(context).size.width,
-              child:Column(
-                children: [
-                  GestureDetector(
-                    onTap: pickerGalleryImage,
-                    child: Container(
-                      width: MediaQuery.of(context).size.width - 150,
-                      alignment: Alignment.center,
-                      padding: EdgeInsets.symmetric(horizontal: 24,vertical: 17),
-                      decoration: BoxDecoration(
-                        color: Color(0xFFE99600),
-                        borderRadius: BorderRadius.circular(6)
-                      ),
-                      child: Text("Take a Photo",style: TextStyle(color: Colors.white),),
-                    ),
-                  ),
-                  SizedBox(height: 10,),
-                  GestureDetector(
-                    onTap:pickerCameraImage,
-                    child: Container(
-                      width: MediaQuery.of(context).size.width - 150,
-                      alignment: Alignment.center,
-                      padding: EdgeInsets.symmetric(horizontal: 24,vertical: 17),
-                      decoration: BoxDecoration(
+            Expanded(
+              child: Container(
+                width: MediaQuery.of(context).size.width,
+                child:Column(
+                  children: [
+                    GestureDetector(
+                      onTap: pickerGalleryImage,
+                      child: Container(
+                        width: MediaQuery.of(context).size.width - 150,
+                        alignment: Alignment.center,
+                        padding: EdgeInsets.symmetric(horizontal: 24,vertical: 17),
+                        decoration: BoxDecoration(
                           color: Color(0xFFE99600),
                           borderRadius: BorderRadius.circular(6)
+                        ),
+                        child: Text("Take a Photo",style: TextStyle(color: Colors.white),),
                       ),
-                      child: Text("Camera Roll",style: TextStyle(color: Colors.white),),
                     ),
-                  )
-                ],
-              ) ,
+                    SizedBox(height: 10,),
+                    GestureDetector(
+                      onTap:pickerCameraImage,
+                      child: Container(
+                        width: MediaQuery.of(context).size.width - 150,
+                        alignment: Alignment.center,
+                        padding: EdgeInsets.symmetric(horizontal: 24,vertical: 17),
+                        decoration: BoxDecoration(
+                            color: Color(0xFFE99600),
+                            borderRadius: BorderRadius.circular(6)
+                        ),
+                        child: Text("Camera Roll",style: TextStyle(color: Colors.white),),
+                      ),
+                    )
+                  ],
+                ) ,
+              ),
             )
           ],
         ),
