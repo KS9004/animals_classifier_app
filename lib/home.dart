@@ -109,10 +109,11 @@ class _HomeState extends State<Home> {
                         alignment: Alignment.center,
                         padding: EdgeInsets.symmetric(horizontal: 24,vertical: 17),
                         decoration: BoxDecoration(
-                          color: Color(0xFFE99600),
+                          color: Colors.white,
+                            // Color(0xFFE99600)
                           borderRadius: BorderRadius.circular(6)
                         ),
-                        child: Text("Take a Photo",style: TextStyle(color: Colors.white),),
+                        child: Text("Take a Photo",style: TextStyle(color: Colors.black),),
                       ),
                     ),
                     SizedBox(height: 10,),
