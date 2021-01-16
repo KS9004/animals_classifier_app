@@ -1,16 +1,60 @@
-# animals_classifier
+<h1 align="center">Animal Classifier</h1>
 
-A new Flutter application.
+</h1>
+<p align="center">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Google-PlayStore-green.svg?style=for-the-badge">
+  </a>
+   <a href="https://www.youtube.com/channel/UCZIK8dK6N0TrgJFQ_f41iBQ">
+    <img src="https://img.shields.io/badge/YouTube-iamtheks-red.svg?style=for-the-badge">
+  </a>
+ <a href="https://github.com/KS9004/cat_vs_dog_detector_app">
+    <img src="https://img.shields.io/badge/Open-Source-green.svg?style=for-the-badge">
+  </a>  
+   
+ 
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots #
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="https://i.imgur.com/65BXN85.jpg" width="250" hspace="4">
+  <img src="https://i.imgur.com/o1FXabm.jpg" width="250" hspace="4">
+  <img src="https://i.imgur.com/cvpDJGY.jpg" width="250" hspace="4">
+  <img src="https://i.imgur.com/DOoUCKd.jpg" width="250" hspace="4">
+ 
+  
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<h1 align="center">
+    <br>
+  Download the Following App  
+  <br>
+</h1>
+<p align="center">
+<a href="" title="Image from PNG Image"><img src="https://i.imgur.com/e4O2rYY.png?1" height="130"width="200" alt="download android app png 4"></a>
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## 🖥 Flutter Tutorial
+All Flutter Tutorials plus additional Code and shorter posts can be found on the [Official Iamsaurabh website](https://www.iamsaurabh.tech/). 
+
+## ⚙️ Tools
+* [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
+* [Android Studio](https://developer.android.com/studio/index.html/) - Tools for building Awesome apps on every type of Android device.
+* [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
+
+
+### :heart: Found this project useful?
+
+If you found this project useful, then please consider giving it a :star: on Github and follow me on GitHub.
+
+
+## 🐞 Bugs/Requests #
+If you encounter any bugs or problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
+
+
+
