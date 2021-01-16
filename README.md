@@ -34,7 +34,7 @@
   <br>
 </h1>
 <p align="center">
-<a href="" title="Image from PNG Image"><img src="https://i.imgur.com/e4O2rYY.png?1" height="130"width="200" alt="download android app png 4"></a>
+<a href="" title="Image from PNG Image"><img src="https://i.imgur.com/e4O2rYY.png?1" height="140"width="200" alt="download android app png 4"></a>
 </p>
 
 
